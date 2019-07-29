@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">Carousell News</string>
+
+    <string name="txt_image_description">Image Detail</string>
+    <string name="msg_no_details">No items to display. Retry</string>
+
+    <string name="menu_action_sort_by_time">Recent</string>
+    <string name="menu_action_sort_by_popular">Popular</string>
+
+    <string name="error_generic_message">Something went wrong, please try again later</string>
+    <string name="err_no_connectivity">Network Unavailable.</string>
+
+    <string name="msg_filtered_by_latest">Showing Latest News</string>
+    <string name="msg_filtered_by_rank">Showing Popular News</string>
+
+    <string name="error_connection">Server Connection Error</string>
+    <string name="error_server_unreachable">Server not reachable, Connection Error </string>
+    <string name="error_timeout">Connection Timeout Error</string>
+    <string name="error_server">Server Error</string>
+
+    <string name="just_now">Just now</string>
+    <string name="ago">ago</string>
+
+
+    <plurals name="years">
+        <item quantity="one">%d Year </item>
+        <item quantity="other">%d Years </item>
+    </plurals>
+
+    <plurals name="months">
+        <item quantity="one">%d Month </item>
+        <item quantity="other">%d Months </item>
+    </plurals>
+
+    <plurals name="weeks">
+        <item quantity="one">%d Week </item>
+        <item quantity="other">%d Weeks </item>
+    </plurals>
+
+    <plurals name="days">
+        <item quantity="one">%d Day </item>
+        <item quantity="other">%d Days </item>
+    </plurals>
+
+    <plurals name="hours">
+        <item quantity="one">%d Hour </item>
+        <item quantity="other">%d Hours </item>
+    </plurals>
+
+    <plurals name="minutes">
+        <item quantity="one">%d Minute </item>
+        <item quantity="other">%d Minutes </item>
+    </plurals>
+
+    <plurals name="seconds">
+        <item quantity="one">%d Second </item>
+        <item quantity="other">%d Seconds </item>
+    </plurals>
+
+
+</resources>

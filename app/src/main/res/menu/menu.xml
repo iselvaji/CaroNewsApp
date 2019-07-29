@@ -1,0 +1,7 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/menu_sort_by_time"
+        android:title="@string/menu_action_sort_by_time"/>
+    <item android:id="@+id/menu_sort_by_popular"
+        android:title="@string/menu_action_sort_by_popular"/>
+</menu>
